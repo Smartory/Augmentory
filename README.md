@@ -8,7 +8,6 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/graphs/contributors)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory)
 [![Visits Badge](https://badges.pufler.dev/visits/Smartory/Augmentory)](https://github.com/Smartory/Augmentory)
-[![GitHub](https://img.shields.io/github/license/Smartory/Augmentory)](https://github.com/Smartory/Augmentory)
 
 ## Description
 This repository consists of detection and segmentation dataset augmentation frameworks for YOLO format datasets based on Albumentations transformations.
