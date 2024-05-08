@@ -1,4 +1,14 @@
 # Augmentory
+ [![arXiv](https://img.shields.io/badge/arXiv-2405.04442-b31b1b.svg)](https://arxiv.org/abs/2405.04442) 
+ [![GitHub stars](https://img.shields.io/github/stars/Smartory/Augmentory.svg?style=social)](https://github.com/Smartory/Augmentory/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Smartory/Augmentory.svg?style=social)](https://github.com/Smartory/Augmentory/network)
+[![GitHub issues](https://img.shields.io/github/issues/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/issues)
+[![GitHub license](https://img.shields.io/github/license/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/commits/master)
+[![GitHub contributors](https://img.shields.io/github/contributors/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/graphs/contributors)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory)
+[![Visits Badge](https://badges.pufler.dev/visits/Smartory/Augmentory)](https://github.com/Smartory/Augmentory)
+[![GitHub](https://img.shields.io/github/license/Smartory/Augmentory)](https://github.com/Smartory/Augmentory)
 
 ## Description
 This repository consists of detection and segmentation dataset augmentation frameworks for YOLO format datasets based on Albumentations transformations.
@@ -49,12 +59,18 @@ By adhering to these structured steps, you can seamlessly augment your datasets 
 
 ## Pre-Print Paper: 
 **When using this library in your research, we will be happy if you cite us! (or at least bring us some self-made pizza or burgers)** 
-1. @misc{ghahremani2024augmentory,
-    title={AugmenTory: A Fast and Flexible Polygon Augmentation Library},
-    author={Tanaz Ghahremani and Mohammad Hoseyni and Mohammad Javad Ahmadi and Pouria Mehrabi and Amirhossein Nikoofard},
-    year={2024},
-    eprint={2405.04442},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-2. Ghahremani, T., & Hoseyni, M., & Ahmadi, M. J., & Mehrabi, P., & Nikoofard, A. (2024). AugmenTory: A Fast and Flexible Polygon Augmentation Tool. arXiv preprint [arXiv:2405.04442](https://arxiv.org/abs/2405.04442).
+1. ‌
+    ```bibtex
+    @misc{ghahremani2024augmentory,
+        title={AugmenTory: A Fast and Flexible Polygon Augmentation Library},
+        author={Tanaz Ghahremani and Mohammad Hoseyni and Mohammad Javad Ahmadi and Pouria Mehrabi and Amirhossein Nikoofard},
+        year={2024},
+        eprint={2405.04442},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+    }
+    ```
+2. ‌
+   ```plaintext
+        Ghahremani, T., & Hoseyni, M., & Ahmadi, M. J., & Mehrabi, P., & Nikoofard, A. (2024). AugmenTory: A Fast and Flexible Polygon Augmentation Tool. arXiv preprint [arXiv:2405.04442](https://arxiv.org/abs/2405.04442).
+   ```
