@@ -1,13 +1,13 @@
 # Augmentory
- [![arXiv](https://img.shields.io/badge/arXiv-2405.04442-b31b1b.svg)](https://arxiv.org/abs/2405.04442) 
- [![GitHub stars](https://img.shields.io/github/stars/Smartory/Augmentory.svg?style=social)](https://github.com/Smartory/Augmentory/stargazers)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.04442-b31b1b.svg)](https://arxiv.org/abs/2405.04442) 
+[![GitHub stars](https://img.shields.io/github/stars/Smartory/Augmentory.svg?style=social)](https://github.com/Smartory/Augmentory/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Smartory/Augmentory.svg?style=social)](https://github.com/Smartory/Augmentory/network)
 [![GitHub issues](https://img.shields.io/github/issues/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/issues)
 [![GitHub license](https://img.shields.io/github/license/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/commits/master)
 [![GitHub contributors](https://img.shields.io/github/contributors/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory/graphs/contributors)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Smartory/Augmentory.svg)](https://github.com/Smartory/Augmentory)
-[![Visits Badge](https://badges.pufler.dev/visits/Smartory/Augmentory)](https://github.com/Smartory/Augmentory)
+![Visits](https://badges.pufler.dev/visits/Smartory/Augmentory)
 [![GitHub](https://img.shields.io/github/license/Smartory/Augmentory)](https://github.com/Smartory/Augmentory)
 
 ## Description
