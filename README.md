@@ -14,7 +14,7 @@ This repository consists of detection and segmentation dataset augmentation fram
 
 ## Authors
 - **Tanaz Ghahremani** <tanaz@smartory.co>
-- **Mohammad Hoseini** <mohammad@smartory.co>
+- **Farhad Hoseini** <mohammad@smartory.co>
 - **Mohammad Javad Ahmadi** <mjahmadi@smartory.co>
 - **Pouria Mehrabi** <pouria@smartory.co>
 - **Amirhossein Nikoofard** <nikoofard@smartory.co>
@@ -62,7 +62,7 @@ By adhering to these structured steps, you can seamlessly augment your datasets 
     ```bibtex
     @misc{ghahremani2024augmentory,
         title={AugmenTory: A Fast and Flexible Polygon Augmentation Library},
-        author={Tanaz Ghahremani and Mohammad Hoseyni and Mohammad Javad Ahmadi and Pouria Mehrabi and Amirhossein Nikoofard},
+        author={Tanaz Ghahremani and  Hoseyni and Mohammad Javad Ahmadi and Pouria Mehrabi and Amirhossein Nikoofard},
         year={2024},
         eprint={2405.04442},
         archivePrefix={arXiv},
