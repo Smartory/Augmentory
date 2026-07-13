@@ -14,7 +14,7 @@ This repository consists of detection and segmentation dataset augmentation fram
 
 ## Authors
 - **Tanaz Ghahremani** <tanaz@smartory.co>
-- **Farhad Hoseini** <mohammad@smartory.co> <farhadhosini60@gmail.com>
+- **Farhad Hoseini** <farhadhosini60@gmail.com> | <mohammad@smartory.co> 
 - **Mohammad Javad Ahmadi** <mjahmadi@smartory.co>
 - **Pouria Mehrabi** <pouria@smartory.co>
 - **Amirhossein Nikoofard** <nikoofard@smartory.co>
